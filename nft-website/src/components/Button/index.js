@@ -6,7 +6,7 @@ const Button = (props) => {
   return( 
   <div className={`${
     btnType==="PRIMARY"
-      ?`button prinary-btn ${customClass}`
+      ?`button primary-btn ${customClass}`
       :`button secondary-btn ${customClass}`
   }`}
   onClick={btnOnClick}> 

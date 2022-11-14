@@ -20,3 +20,13 @@
     font-size: 20px;
     margin: 24px 0px;
 }
+
+.tf-left-btns{
+    margin-top: 36px;
+    display: flex;
+}
+
+.tf-left-secondary-btn{
+    margin-left: 36px;
+    
+}
